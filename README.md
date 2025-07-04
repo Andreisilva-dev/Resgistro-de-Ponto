@@ -1,4 +1,4 @@
-#TELA DE INICIO DO PROGRAMA ![tela-inicio](https://github.com/user-attachments/assets/6fb349b8-1c15-482f-94db-6bd2549248a3)
+#TELA DE INICIO DO PROGRAMA </br> ![tela-inicio](https://github.com/user-attachments/assets/6fb349b8-1c15-482f-94db-6bd2549248a3)
 
 #TELA DE  RESGISTRO DE PRESENÇA ![Registro](https://github.com/user-attachments/assets/f1cf1210-b65b-432a-b8a5-2861b7c4a994)
 
